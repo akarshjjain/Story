@@ -1,0 +1,1 @@
+Here, you can also directly create file and edit the file without using touch. use code instead.
